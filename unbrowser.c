@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <unistd.h>
 
 int main()
 {
 	printf("how about you go outside instead of sitting in front of your pc you obese fucking pig\n");
-	return(420);
+	sleep(5);
+	return(69);
 }
