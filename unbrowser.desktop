@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.666
+Type=Application
+Terminal=true
+Exec=~/.local/bin/unbrowser
+Name=unbrowser
+Icon=internet-web-browser
